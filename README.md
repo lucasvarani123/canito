@@ -28,6 +28,8 @@ Cesar Augusto - +5519993828181
 Número de SMS cadastrado: Cesar +5519993828181
 
 
+Versão WEB do CanitoBot aberta para todos em: tiny.cc/falacanitolive
+
 
 
 
