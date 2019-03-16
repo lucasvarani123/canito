@@ -1,6 +1,7 @@
 
 # FalaCanito
 ![FalaCanito - Agente de Chatbot](https://uploaddeimagens.com.br/images/001/965/927/full/mascote_sbo.png?1552772963)
+
 FalaCanito é uma plataforma gratuita criada com o objetivo de informar as pessoas a respeito da cidade de Santa Bárbara D'Oeste, disseminando as informações em relação aos eventos da cidade tanto para aqueles que vivem nela, quanto para aqueles que estão lá por turismo.
 
 Além disso, existem também informações sobre a história da cidade, a cultura, os esportes e também sobre as notícias da cidade.
