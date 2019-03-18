@@ -12,21 +12,14 @@ Links:
 
 Página do FalaCanito no facebook: https://www.facebook.com/falacanito/
 
+Chatbot Messenger: http://m.me/falacanito
+
 Plataforma de AI ChatBot utilizada: https://dialogflow.com/
 juntamente com integração para SMS e WhatsApp por Twillio API
 
 Telas da plataforma feitas com Figma: http://bit.ly/FalaCanito
 
 Apresentação: https://docs.google.com/presentation/d/1aOxCO1M1gjMyo77AQUgBwexdNxI0fKoRewMs7lkDDlg/edit#slide=id.g54381b230c_0_21
-
-Números dos WhatsApps cadastrados:
-Raíra Torrico - +5511958382498
-Lucas Francisco - +5519995024462
-Andrezza Tavares - +5519991696333
-Cesar Augusto - +5519993828181
-
-Número de SMS cadastrado: Cesar +5519993828181
-
 
 Versão WEB do CanitoBot aberta para todos em: http://tiny.cc/FalaCanitoLive
 
